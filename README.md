@@ -1,1 +1,1 @@
-# squasing-pruning-example
+# git-learm
